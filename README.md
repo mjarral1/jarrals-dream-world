@@ -24,7 +24,7 @@ Here are some features of my website.
 ## Getting Started
 ```bash
 # Clone the repository
-git clone https://github.com/mjarral1/jarrals_website-repo.git
+git clone https://github.com/mjarral1/jarrals-dream-world.git
 # Change into the project directory
 cd jarrals-website-repo
 # Install dependencies
