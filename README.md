@@ -44,9 +44,10 @@
     </main>
 <footer>
   <p> Posted by: Misbah Jarral </p>
-  <a href="ShahbanoJarral@gmail.com"> Gmail </a></p>
-  <p></p><a href="https://www.linkedin.com/in/mjarral786/"> LinkedIn </a>
-  </p>
+  <a href="https://myaccount.google.com/"> Gmail </a></p>
+  <p><a href="https://www.linkedin.com/in/mjarral786/"> LinkedIn </a></p>
+  <p><a href="https://www.amivero.com/">Amivero </a></p>
+
    <p>&copy; 2023 Jarral's Website</p>
 </footer>
         </body>
